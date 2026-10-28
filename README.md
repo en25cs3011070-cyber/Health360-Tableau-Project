@@ -7,7 +7,7 @@ A Tableau project that analyzes patient data to show disease prevalence, lifesty
 Tableau, CSV dataset, GitHub
 
 ## Dataset
-`smart_healthcare_dataset.csv` — https://drive.google.com/file/d/1RDbCMrWJaLQUufYcGbI6m9LgTvuJQcv2/view?usp=drive_link[demo-link.txt](https://github.com/user-attachments/files/34061556/demo-link.txt)
+`smart_healthcare_dataset.csv` — (https://github.com/user-attachments/files/34061556/demo-link.txt)
 
 
 
@@ -29,4 +29,12 @@ The dashboards are named after the three users (Dr. Michael Carter, Emily Rodrig
 - `skillwalletpresentation2.twbx`: Tableau workbook
 - `demo-link.txt`: [demo-link.txt](https://github.com/user-attachments/files/34061561/demo-link.txt)
 - `documentation.pdf`: [documentation.pdf](https://github.com/user-attachments/files/34060953/documentation.pdf)
+
+
+## Demo
+
+[https://drive.google.com/file/d/1FulsEoPL3i2PM8-jbO5nIUpTq5oYlX4r/view?usp=drive_link]
+
+## Author
+[vrinda saraf], [medicaps university]
 
