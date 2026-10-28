@@ -7,8 +7,9 @@ A Tableau project that analyzes patient data to show disease prevalence, lifesty
 Tableau, CSV dataset, GitHub
 
 ## Dataset
-`smart_healthcare_dataset.csv` — [paste source link here]
-(Not included in this repo. Please download it from the source.)
+`smart_healthcare_dataset.csv` — https://drive.google.com/file/d/1RDbCMrWJaLQUufYcGbI6m9LgTvuJQcv2/view?usp=drive_link[demo-link.txt](https://github.com/user-attachments/files/34061556/demo-link.txt)
+
+
 
 ## Visualizations
 1. **KPI Cards**: total patients, disease prevalence and high-risk patients
@@ -26,12 +27,6 @@ The dashboards are named after the three users (Dr. Michael Carter, Emily Rodrig
 
 ## Files
 - `skillwalletpresentation2.twbx`: Tableau workbook
-- `screenshots/`: dashboard and story images
-- `demo-link.txt`: demo video link
-- `documentation.pdf`: project report
+- `demo-link.txt`: [demo-link.txt](https://github.com/user-attachments/files/34061561/demo-link.txt)
+- `documentation.pdf`: [documentation.pdf](https://github.com/user-attachments/files/34060953/documentation.pdf)
 
-## Demo
-[paste your tested demo link here]
-
-## Author
-[Your name], [college name]
